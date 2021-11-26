@@ -1,0 +1,38 @@
+div{
+    border: solid;
+    border-color: #4D0084;
+    background-color: #65FEFE;
+    width: 150px;
+    height: 250px;
+    position: absolute;
+    top: 10px;
+    }
+.d1{
+    background-color: rgba(101, 254, 254, 0.7);
+    left: 10px;
+    z-index: 10;
+    }
+#d1{
+    background-color: rgba(101, 254, 254, 0.7);
+    top: 25px;
+    left: 110px;
+    z-index: 8;
+    }
+.d2{
+    background-color: rgba(101, 254, 254, 0.7);
+    top: 40px;
+    left: 220px;
+    z-index: 6;
+    }
+#d2{
+    background-color: rgba(101, 254, 254, 0.7);
+    top: 55px;
+    left: 330px;
+    z-index: 4;
+    }
+.d3{
+    background-color: rgba(101, 254, 254, 0.7);
+    top: 70px;
+    left: 440px;
+    z-index: 2;
+    }
